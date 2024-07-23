@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTAuthDemo", "JWTAuthDemo\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DOCUMENT", "DOCUMENT", "{69678C71-3F79-43E5-85BA-764173B28B7F}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\Users\LENOVO\Desktop\AuthTestDb.sql = ..\..\..\Users\LENOVO\Desktop\AuthTestDb.sql
+		AuthTestDb.sql = AuthTestDb.sql
 		README.md = README.md
 	EndProjectSection
 EndProject
